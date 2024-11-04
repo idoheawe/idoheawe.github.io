@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://idoheawe.github.io/CYl/sitemap_index.txt
+Sitemap: https://idoheawe.github.io/nFh/sitemap_index.txt
+Sitemap: https://idoheawe.github.io/rpv/sitemap_index.txt
+Sitemap: https://idoheawe.github.io/sjL/sitemap_index.txt
